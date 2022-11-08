@@ -1,0 +1,8 @@
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.exe.config
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.exe
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.pdb
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.AssemblyReference.cache
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.SuggestedBindingRedirects.cache
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.CoreCompileInputs.cache
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.exe
+C:\Users\serha\OneDrive\Masaüstü\Turkcell eğitimler\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.pdb
