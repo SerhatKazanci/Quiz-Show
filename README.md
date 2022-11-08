@@ -1,1 +1,3 @@
 # Quiz-Show
+
+THERE ARE TEN QUESTIONS, GOOD LUCK :)
